@@ -15,20 +15,11 @@
 
  ---
 <p align="left">
- <a href="https://www.linkedin.com/in/oporaxuao" target="_blank">
-    [<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
-  <a href="mailto:joaosoussiqueira@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAIL-C71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  
-
-  <a href="instagram.com/oporaxuao" target="_blank">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  <a href="https://linkedin.com/in/oporaxuao" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>  
 </p>
- 
-          
-  
  
 
           
