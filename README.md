@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Microsoft+Gothic+Neo&pause=1000&color=6608B1&width=435&lines=Data+Scientist+and+Analytics)](https://git.io/typing-svg)
 
 * 🎓 System Analysis Development - FIAP Centro Univesitário.
-* 🔭 Data Scientist Student in - EBAC Escola Britânica de Artes Criativas.
+* 🔭 Data Scientist  - EBAC Escola Britânica de Artes Criativas.
 * 📊 Gerando Valor com Dados - Preditiva Analytics.
 
   
