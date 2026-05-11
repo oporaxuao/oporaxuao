@@ -2,7 +2,7 @@
 
 ## Hi, I'm João Alfredo 👋
 
-Data Scientist with a specialization in Data Science from EBAC and a degree in Systems Analysis from FIAP. I build end-to-end ML pipelines — from data engineering and EDA to predictive modeling and business storytelling — with a focus on translating technical results into measurable business impact.
+Data Scientist with a specialization in Data Science from EBAC and a degree in Systems Analysis from FIAP. I build end-to-end ML pipelines — from data engineering and EDA to predictive modeling and business storytelling with a focus on translating technical results into measurable business impact.
 
 - 🔭 Currently working on: expanding into AWS cloud tools (S3, EC2, SageMaker)
 - 📍 São Paulo, SP — Brazil
