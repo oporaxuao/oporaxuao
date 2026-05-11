@@ -2,7 +2,7 @@
 
 ## Hi, I'm João Alfredo 👋
 
-Data Scientist with a specialization in Data Science from EBAC and a degree in Systems Analysis from FIAP. I build end-to-end ML pipelines — from data engineering and EDA to predictive modeling and business storytelling with a focus on translating technical results into measurable business impact.
+Data Scientist with a specialization in Data Science from EBAC and a degree in Systems Analysis from FIAP. I build end-to-end ML pipelines — from data engineering and EDA to predictive modeling and business storytelling — with a focus on translating technical results into measurable business impact.
 
 - 🔭 Currently working on: expanding into AWS cloud tools (S3, EC2, SageMaker)
 - 📍 São Paulo, SP — Brazil
@@ -66,5 +66,9 @@ Data Scientist with a specialization in Data Science from EBAC and a degree in S
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oporaxuao)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosoussiqueira@gmail.com)
+<a href="https://www.linkedin.com/in/oporaxuao/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:joaosoussiqueira@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
