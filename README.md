@@ -58,7 +58,7 @@ Data Scientist with a specialization in Data Science from EBAC and a degree in S
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oporaxuao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=oporaxuao&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oporaxuao&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
