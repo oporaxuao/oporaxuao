@@ -14,7 +14,7 @@ Data Scientist with a specialization in Data Science from EBAC and a degree in S
 
 | Project | Description | Result |
 |---|---|---|
-| [fraud-detection-xgboost](https://github.com/oporaxuao/fraud-detection-xgboost) | Credit card fraud detection with XGBoost on 1.8M transactions | **+USD 866k** projected net balance |
+| [fraud-detection-xgboost](https://github.com/oporaxuao/fraud-detection-xgboost) | Credit card fraud detection with XGBoost on 1.8M transactions | **+USD 849** projected net balance |
 | [hypothyroidism-diagnosis-catboost](https://github.com/oporaxuao/hypothyroidism-diagnosis-catboost) | Clinical ML model for hypothyroidism diagnosis | **100% Recall** — zero false negatives |
 | [criminal-data-pipeline](https://github.com/oporaxuao/criminal-data-pipeline) | Data pipeline extracting FBI & Interpol wanted persons into Oracle DB | Full ETL in Java + OOP |
 | [purchase-prediction-ml](https://github.com/oporaxuao/purchase-prediction-ml) | Purchase propensity model for marketing campaigns | **AUC-ROC 0.979**, F1 0.932 |
