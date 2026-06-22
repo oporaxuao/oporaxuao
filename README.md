@@ -14,14 +14,14 @@ Data Scientist with a specialization in Data Science from EBAC and a degree in S
 
 | Project | Description | Result |
 |---|---|---|
+| [vr-desigualdade-ifood](https://github.com/oporaxuao/vr-desigualdade-ifood) | Meal-voucher coverage on iFood vs socioeconomic inequality across 40 São Paulo districts | **98.2%** accept some voucher, but brand access tracks income |
 | [fraud-detection-xgboost](https://github.com/oporaxuao/fraud-detection-xgboost) | Credit card fraud detection with XGBoost on 1.8M transactions | **+USD 849k** projected net balance |
-| [hypothyroidism-diagnosis-catboost](https://github.com/oporaxuao/hypothyroidism-diagnosis-catboost) | Clinical ML model for hypothyroidism diagnosis | **100% Recall** — zero false negatives |
-| [criminal-data-pipeline](https://github.com/oporaxuao/criminal-data-pipeline) | Data pipeline extracting FBI & Interpol wanted persons into Oracle DB | Full ETL in Java + OOP |
+| [hypothyroidism-diagnosis-crisp-dm](https://github.com/oporaxuao/hypothyroidism-diagnosis-crisp-dm) | Clinical ML model for hypothyroidism diagnosis with LightGBM and CRISP-DM | F2-optimized, honest TSH-leakage audit |
 | [purchase-prediction-ml](https://github.com/oporaxuao/purchase-prediction-ml) | Purchase propensity model for marketing campaigns | **AUC-ROC 0.979**, F1 0.932 |
+| [cardiovascular-disease-logistic-regression](https://github.com/oporaxuao/cardiovascular-disease-logistic-regression) | Cardiovascular disease prediction with logistic regression | COLAR_METRICA_AQUI |
+| [criminal-data-pipeline](https://github.com/oporaxuao/criminal-data-pipeline) | Data pipeline extracting FBI & Interpol wanted persons into Oracle DB | Full ETL in Java + OOP |
 | [ecommerce-performance-dashboard](https://github.com/oporaxuao/ecommerce-performance-dashboard) | E-commerce BI dashboard from Python ETL to Looker Studio | Interactive executive dashboard |
 | [customer-segmentation-kmeans](https://github.com/oporaxuao/customer-segmentation-kmeans) | Customer segmentation with K-Means clustering | 5 actionable business personas |
-
----
 
 ## 🛠️ Languages & Tools
 
