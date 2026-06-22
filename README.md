@@ -6,7 +6,7 @@ Data Scientist with a specialization in Data Science from EBAC and a degree in S
 
 - 🔭 Currently working on: expanding into AWS cloud tools (S3, EC2, SageMaker)
 - 📍 São Paulo, SP — Brazil
-- 💼 Open to: Junior Data Scientist opportunities
+- 💼 Open to: Junior Data Scientist/Analyst opportunities
 
 ---
 
